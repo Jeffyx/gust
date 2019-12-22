@@ -1,0 +1,5 @@
+dash
+pandas
+Flask
+gunicorn
+flask_bootstrap
